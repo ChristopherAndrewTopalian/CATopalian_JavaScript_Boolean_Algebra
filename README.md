@@ -30,6 +30,8 @@ An in-depth tutorial on Boolean Algebra and how to express Boolean logic using J
 ### Domination
 [A + 1 = 1](src/Domination_Law/a_plus_1_equals_1.md)  
 
+[A * 0 = 0](src/Domination_Law/a_times_0_equals_0.md)  
+
 ---
 
 ### How to Download this App
