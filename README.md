@@ -21,7 +21,10 @@ An in-depth tutorial on Boolean Algebra and how to express Boolean logic using J
 ---
 
 ### Identity
-[A + 0 = A](src/Identity_Law/a_plus_0_equals_a.md)
+[A + 0 = A](src/Identity_Law/a_plus_0_equals_a.md)  
+
+[A * 1 = A](src/Identity_Law/a_times_1_equals_a.md)  
+
 
 ---
 
