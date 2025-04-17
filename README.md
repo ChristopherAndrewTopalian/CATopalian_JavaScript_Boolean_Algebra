@@ -20,6 +20,11 @@ An in-depth tutorial on Boolean Algebra and how to express Boolean logic using J
 
 ---
 
+### Identity
+[A + 0 = A](src/Identity_Law/a_plus_0_equals_a.md)
+
+---
+
 ### How to Download this App
 1. Click the green Code Button on this github page
 2. Choose Download ZIP
