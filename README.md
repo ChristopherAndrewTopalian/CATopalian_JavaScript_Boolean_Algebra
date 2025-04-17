@@ -14,7 +14,9 @@ An in-depth tutorial on Boolean Algebra and how to express Boolean logic using J
 ---
 
 ### Idempotent
-[A + A = A](src/Idempotent_Law/a_plus_a_equals_a.md)
+[A + A = A](src/Idempotent_Law/a_plus_a_equals_a.md)  
+
+[A * A = A](src/Idempotent_Law/a_times_a_equals_a.md)  
 
 ---
 
