@@ -3,6 +3,9 @@ An in-depth tutorial on Boolean Algebra and how to express Boolean logic using J
 
 ---
 
+### Complement
+[a_plus_not_a_equals_1](src/Complement_Law/a_plus_not_a_equals_1.md)
+
 ### How to Download this App
 1. Click the green Code Button on this github page
 2. Choose Download ZIP
