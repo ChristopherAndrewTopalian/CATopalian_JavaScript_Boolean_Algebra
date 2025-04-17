@@ -22,10 +22,10 @@ Number(A) + Number(A) === Number(A)
 
 ```javascript
 let A = true;
-console.log(Number(A) + Number(A) === Number(A)); /* true */
+console.log(Number(A) + Number(A) === Number(A)); // true
 
 A = false;
-console.log(Number(A) + Number(A) === Number(A)); /* true */
+console.log(Number(A) + Number(A) === Number(A)); // true
 ```
 
 ---
