@@ -1,4 +1,5 @@
 # CATopalian JavaScript Boolean Algebra
+An in-depth tutorial on Boolean Algebra and how to express Boolean logic using JavaScript.  
 
 ---
 
