@@ -4,7 +4,7 @@ An in-depth tutorial on Boolean Algebra and how to express Boolean logic using J
 ---
 
 ### Complement
-[a_plus_not_a_equals_1](src/Complement_Law/a_plus_not_a_equals_1.md)
+[A + !A = 1](src/Complement_Law/a_plus_not_a_equals_1.md)
 
 ---
 
