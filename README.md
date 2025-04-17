@@ -8,6 +8,13 @@ An in-depth tutorial on Boolean Algebra and how to express Boolean logic using J
 
 ---
 
+### Null
+[A * !A = 0](src/Null_Law/a_times_not_a_equals_zero.md)
+
+---
+
+---
+
 ### How to Download this App
 1. Click the green Code Button on this github page
 2. Choose Download ZIP
