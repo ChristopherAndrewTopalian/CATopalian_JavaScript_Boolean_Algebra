@@ -13,6 +13,9 @@ An in-depth tutorial on Boolean Algebra and how to express Boolean logic using J
 
 ---
 
+### Idempotent
+[A + A = A](src/Idempotent_Law/a_plus_a_equals_a.md)
+
 ---
 
 ### How to Download this App
