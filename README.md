@@ -25,6 +25,10 @@ An in-depth tutorial on Boolean Algebra and how to express Boolean logic using J
 
 [A * 1 = A](src/Identity_Law/a_times_1_equals_a.md)  
 
+---
+
+### Domination
+[A + 1 = 1](src/Domination_Law/a_plus_1_equals_1.md)  
 
 ---
 

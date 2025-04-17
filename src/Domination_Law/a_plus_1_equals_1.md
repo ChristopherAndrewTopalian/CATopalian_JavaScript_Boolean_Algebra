@@ -1,39 +1,39 @@
-# Identity Law  
-# **`A OR 0 equals A`**
+# Domination Law  
+# **`A OR 1 equals 1`**
 
 ---
 
 ### Boolean Expression  
-# **`A + 0 = A`**
+# **`A + 1 = 1`**
 
 ## if A = 0  
-# **`0 + 0 = 0`**
+# **`0 + 1 = 1`**
 
 ## if A = 1  
-# **`1 + 0 = 1`**
+# **`1 + 1 = 1`**
 
 ---
 
 ```javascript
-Number(A) + 0 === Number(A)
+Number(A) + 1 === 1
 ```
 
 ---
 
 ```javascript
 let A = true;
-console.log(Number(A) + 0 === Number(A)); // true
+console.log(Number(A) + 1 === 1); // true
 
 A = false;
-console.log(Number(A) + 0 === Number(A)); // true
+console.log(Number(A) + 1 === 1); // true
 ```
 
 ---
 
 ```javascript
-function a_plus_0_equals_a(A)
+function a_plus_1_equals_1(A)
 {
-    return Number(A) + 0 === Number(A);
+    return Number(A) + 1 === 1;
 }
 ```
 
