@@ -61,7 +61,7 @@ An in-depth tutorial on Boolean Algebra and how to express Boolean logic using J
 ---
 
 ### Consensus Theorem
-[a_and_b_or_not_a_and_c_or_b_and_c_equals_a_and_b_or_not_a_and_c](src/Consensus_Theorem/a_and_b_or_not_a_and_c_or_b_and_c_equals_a_and_b_or_not_a_and_c.md)  
+[(A·B) + (!A·C) + (B·C) = (A·B) + (!A·C)](src/Consensus_Theorem/a_and_b_or_not_a_and_c_or_b_and_c_equals_a_and_b_or_not_a_and_c.md)  
 
 ---
 
