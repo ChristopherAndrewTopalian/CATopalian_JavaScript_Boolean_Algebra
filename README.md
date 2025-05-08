@@ -39,6 +39,13 @@ An in-depth tutorial on Boolean Algebra and how to express Boolean logic using J
 
 ---
 
+### Absorption Law
+[A + (A · B) = A](src/Absorption_Law/a_and_(a_or_b)_equals_a.md)  
+
+[A + (A · B) = A](src/Absorption_Law/a_or_(a_and_b)_equals_a.md)  
+
+---
+
 ### How to Download this App
 1. Click the green Code Button on this github page
 2. Choose Download ZIP
