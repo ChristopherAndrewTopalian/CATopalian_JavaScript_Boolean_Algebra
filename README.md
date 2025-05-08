@@ -1,5 +1,5 @@
 # CATopalian JavaScript Boolean Algebra
-An in-depth tutorial on Boolean Algebra and how to express Boolean logic using JavaScript.  
+An in-depth tutorial on Boolean Algebra and how to express Boolean logic using JavaScript.   
 
 ---
 
@@ -31,6 +31,11 @@ An in-depth tutorial on Boolean Algebra and how to express Boolean logic using J
 [A + 1 = 1](src/Domination_Law/a_plus_1_equals_1.md)  
 
 [A * 0 = 0](src/Domination_Law/a_times_0_equals_0.md)  
+
+---
+
+### Double Negation Law
+[!!A = A](src/Double_Negation_Law/not_not_a_equals_a.md)  
 
 ---
 
