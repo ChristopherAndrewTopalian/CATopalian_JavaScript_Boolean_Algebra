@@ -1,5 +1,5 @@
 # CATopalian JavaScript Boolean Algebra
-An in-depth tutorial on Boolean Algebra and how to express Boolean logic using JavaScript.   
+An in-depth tutorial on Boolean Algebra and how to express Boolean logic using JavaScript.  
 
 ---
 
@@ -50,6 +50,13 @@ An in-depth tutorial on Boolean Algebra and how to express Boolean logic using J
 [A · (B + C) = (A · B) + (A · C)](src/Distributive_Law/a_and_b_or_c_equals_a_and_b_or_a_and_c.md)  
 
 [A + (B · C) = (A + B) · (A + C))](src/Distributive_Law/a_or_b_and_c_equals_a_or_b_and_a_or_c.md)  
+
+---
+
+### DeMorgan's Law
+[!(A · B) = !A + !B](src/DeMorgans_Law/not_a_and_b_equals_not_a_or_not_b.md)  
+
+[!(A + B) = !A · !B](src/DeMorgans_Law/not_a_or_b_equals_not_a_and_not_b.md)  
 
 ---
 
