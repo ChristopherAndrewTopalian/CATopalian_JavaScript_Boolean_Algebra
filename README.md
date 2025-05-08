@@ -60,6 +60,11 @@ An in-depth tutorial on Boolean Algebra and how to express Boolean logic using J
 
 ---
 
+### Consensus Theorem
+[a_and_b_or_not_a_and_c_or_b_and_c_equals_a_and_b_or_not_a_and_c](src/Consensus_Theorem/a_and_b_or_not_a_and_c_or_b_and_c_equals_a_and_b_or_not_a_and_c.md)  
+
+---
+
 ### How to Download this App
 1. Click the green Code Button on this github page
 2. Choose Download ZIP
